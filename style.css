@@ -1,0 +1,53 @@
+body{
+    background-color:#d0f7c7;
+    text-align:center;
+    font-family:"Dosis", sans-serif;
+}
+h1{
+    font-size: 90px;
+    color:#3cc16a;
+    background-color: aquamarine;
+}
+
+h2, h3{
+    font-size: 40px;
+    color:rgb(212, 171, 204);
+}
+
+a:link, .links{
+list-style: none;
+   text-decoration:none;
+   color:rgb(163, 187, 231);
+   font-size: 32px;
+   
+}
+a:visited{
+    list-style: none;
+    text-decoration:none;
+    color:rgb(163, 187, 231);
+ }
+ a:hover{
+     text-decoration: none;
+     color: #3cc16a;
+    
+   
+ }
+ul li{
+    list-style:none;
+    color:rgb(238, 146, 60);
+
+
+}
+ol li{
+    text-align:left;
+    color:rgb(238, 146, 60);
+    
+}
+.recipe-photo{
+    border-radius: 7%;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 7px;
+}
+
+
